@@ -20,7 +20,7 @@ colorscheme Viozene
 
 ## Alacritty
 
-1. Paste the contents of `Alacritty/Themer Viozene.yml` into your Alacritty config file.
+1. Paste the contents of `Alacritty/Viozene.yml` into your Alacritty config file.
 2. Select the desired theme by setting the `colors` config key to reference the scheme's anchor (i.e., `colors: *light` or `colors: *dark`).
 
 ## Circuits wallpaper
