@@ -14,7 +14,7 @@ colorscheme Viozene
 ## Vim lightline
 
 1. Make sure that the `background` option is set in `.vimrc`.
-2. Copy or symlink `Vim lightline/ViozeneLightline.vim` to `~/.vim/autoload/lightline/colorscheme/`.
+2. Copy or symlink `Vim lightline/Viozene.vim` to `~/.vim/autoload/lightline/colorscheme/`.
 3. Set the colorscheme in `.vimrc`: `let g:lightline = { 'colorscheme': 'Viozene' }`
 4. Restart Vim.
 
@@ -27,5 +27,5 @@ colorscheme Viozene
 
 Files generated:
 
-* `Circuits wallpaper/themer-my-color-set-dark-1338x629.svg`
-* `Circuits wallpaper/themer-my-color-set-dark-1338x629.png`
+* `Circuits wallpaper/themer-viozene-dark-1338x629.svg`
+* `Circuits wallpaper/themer-viozene-dark-1338x629.png`
