@@ -2,7 +2,7 @@
 
 ## Vim
 
-1opy or symlink `Vim/Viozene.vim` to `~/.vim/colors/`.
+Copy or symlink `Vim/Viozene.vim` to `~/.vim/colors/`.
 
 Then set the colorscheme in `.vimrc`:
 
